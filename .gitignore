@@ -1,0 +1,7 @@
+__pycache__/
+
+.vscode/
+
+Drywall-Join-Detect.v1-1.coco/
+cracks.v1-1.coco/
+output/
