@@ -1,4 +1,4 @@
-# Drywall - CLIPSeg Fine-Tuning Pipeline
+# Drywall QA - CLIPSeg Fine-Tuning Pipeline
 
 This repository contains a modular pipeline for fine-tuning CLIPSeg (`CIDAS/clipseg-rd64-refined`) to detect taping areas and cracks on drywall. 
 
